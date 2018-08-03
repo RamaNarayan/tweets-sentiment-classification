@@ -1,2 +1,2 @@
 # tweets-sentiment-classification
-Sentiment classification of tweets in Spark
+Sentiment polarity classification of airline tweets in Spark. Dataset from kaggle competition - https://www.kaggle.com/crowdflower/twitter-airline-sentiment 
